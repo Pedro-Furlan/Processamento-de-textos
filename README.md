@@ -1,5 +1,4 @@
 # Processamento-de-textos
-Programa em Python para processamento de textos.
 
 Este repositório será uma continuação do projeto original, disponível em https://github.com/MiqueiasSAraujo/economia_computacional.git por Pedro Furlan, Miquéias Araújo e Rodrigo Colombo, para a disciplina de CE 860 (Economia Computacional: Programação e Projeto de Software) do curso de Ciências Econômicas na UNICAMP.
 
