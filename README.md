@@ -18,5 +18,12 @@ Futuramente, pretendo implementar várias melhorias:
 
 
 
+
+
+
 Quão futuramente?
+
+
+
+
 ![image](https://user-images.githubusercontent.com/90570800/144357326-86168c66-9e26-4524-95ac-8140b46ce409.png)
