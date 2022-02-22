@@ -1,0 +1,120 @@
+"\bISBN(?:-1[03])?:? +(?=[0-9X]{10}\b|(?=(?:[0-9]+[- ]){3})[- 0-9X]{13}\b|97[89][0-9]{10}\b|(?=(?:[0-9]+[- ]){4})[- 0-9]{17}\b)(?:97[89][- ]?)?[0-9]{1,5}[- ]?[0-9]+[- ]?[0-9]+[- ]?[0-9X]\b"gm
+
+Publisher: David Pallai
+Mercury Learning and Information
+22841 Quicksilver Drive
+Dulles, VA 20166
+info@merclearning.com
+www.merclearning.com
+800-232-0223
+O. Campesato. Regular Expressions Pocket Primer.
+ISBN: 978-1-68392-227-8
+Library of Congress Control Number: 2018943739
+Copyright ©2019 by Mercury Learning and inforMation LLC.
+181920321 Printed in the United States of America.
+
+Windows® 8 Bible
+Published by
+John Wiley & Sons, Inc.
+10475 Crosspoint Boulevard
+Indianapolis, IN 46256
+www.wiley.com
+Copyright © 2013 by Jim Boyce and Rob Tidrow
+Published by John Wiley & Sons, Inc., Indianapolis, Indiana
+Published simultaneously in Canada
+ISBN: 978-1-118-20388-0
+ISBN: 978-1-118-22830-2 (ebk)
+ISBN: 978-1-118-24074-8 (ebk)
+ISBN: 978-1-118-26549-9 (ebk)
+Manufactured in the United States of America
+10 9 8 7 6 5 4 3 2 1
+
+Dados Internacionais de Catalogação na Publicação (CIP)
+(Câmara Brasileira do Livro, SP, Brasil)
+Medicina de emergência : revisão rápida / editores Herlon
+Martins...[et al.]. – Barueri, SP : Manole, 2017.
+Outros editores: Herlon Saraiva Martins, Rômulo
+Augusto dos Santos, Rodrigo Antonio Brandão Neto,
+Frederico Arnaud.
+Bibliografia.
+ISBN 978-85-204-3307-2
+1. Medicina de urgência 2. Primeiros socorros I. Martins,
+Herlon Saraiva. II. Santos, Rômulo Augusto dos. III. Brandão
+Neto, Rodrigo Antonio. IV. Arnaud, Frederico.
+CDD-616.025
+16-08431 NLM-WB 100
+Índices para catálogo sistemático:
+1. Emergências médicas 616.025
+Todos os direitos reservados.
+Nenhuma parte deste livro poderá ser reproduzida, por qualquer processo, sem a permissão
+expressa dos editores.
+É proibida a reprodução por xerox.
+A Editora Manole é filiada à ABDR – Associação Brasileira de Direitos Reprográficos.
+
+Copyright © 2009 American Psychiatric Publishing, Inc.
+ALL RIGHTS RESERVED
+DSM-IV-TR™ criteria included in this book are reprinted, with permission, from the Diagnostic and Statistical Manual
+of Mental Disorders, 4th Edition, Text Revision. Copyright © 2000, American Psychiatric Association.
+Manufactured in the United States of America on acid-free paper
+13 12 11 10 09 5 4 3 2 1
+Second Edition
+Typeset in Adobe’s ACaslon and Frutiger
+American Psychiatric Publishing, Inc.
+1000 Wilson Boulevard
+Arlington, VA 22209-3901
+www.appi.org
+To purchase 25–99 copies of this or any other APPI title at a 20% discount, please contact APPI Customer Service at
+appi@psych.org or 800-368-5777. If you wish to buy 100 or more copies of the same title, please e-mail bulksales@psych.org
+for a price quote.
+Library of Congress Cataloging-in-Publication Data
+Textbook of anxiety disorders / edited by Dan J. Stein, Eric Hollander, Barbara O. Rothbaum. — 2nd ed.
+p. ; cm.
+Includes bibliographical references and index.
+ISBN 978-1-58562-254-2 (alk. paper)
+1. Anxiety disorders—Textbooks. I. Stein, Dan J. II. Hollander, Eric, 1957- III. Rothbaum, Barbara Olasov.
+[DNLM: 1. Anxiety Disorders. WM 172 T356 2010]
+RC531.A525 2010
+616.85′22—dc22
+2009015495
+British Library Cataloguing in Publication Data
+A CIP record is available from the British Library.
+
+Android Internals - A Confectioner's Cookbook - Volume I - The Power User's View
+© 2015 by Jonathan Levin.
+All rights reserved. No part of this work may be reproduced, transmitted in any form or any means,
+electronic or mechanical, including photocopying, recording, or by any information storage or
+retrieval system, without the prior written permission of the author.
+Printed in Cambridge, MA, USA
+First Printing􀀃􀀋􀁙􀀔􀀑􀀔5-Mp1-as􀀌􀀃􀀃
+ISBN-10: 9910555-2-4
+ISBN-13: 978-0-9910555-2-4
+Publisher: Technologeeks.com
+Production Editor: Jonathan Levin
+Interior Design: Jonathan Levin
+Technical Reviewers: Moshe Kravchik, Arie Haenel
+Cover Illustration: Dino Tsiopanos
+For information on distribution, translations, or bulk sales, please contact Jonathan Levin, at:
+
+National Association of City
+Transportation Officials
+55 Water Street, 9th Floor
+New York, NY 10041
+www.nacto.org
+Cataloging information may be obtained
+from the Library of Congress.
+Library of Congress Control Number:
+2013946303
+ISBN: 978-1-61091-494-9
+© Copyright 2013 National Association of
+City Transportation Officials
+Consultant Team: Nelson\Nygaard
+Consulting Associates, Sherwood Engineers
+Design: Pure+Applied
+
+While every precaution has been taken in the preparation of this book, the publisher and authors assume
+no responsibility for errors or omissions, or for damages resulting from the use of the information contained
+herein.
+ISBN: 978-1-449-31943-4
+[LSI]
+1344629030
+Table of Contents

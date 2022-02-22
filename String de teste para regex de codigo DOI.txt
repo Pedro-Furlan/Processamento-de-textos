@@ -1,0 +1,141 @@
+"\b10\.[0-9]{3,10}(?:\.[0-9]+)*/(?:(?![\"&\'])(?:\S|(?<=/)\n))+\b"gmi
+
+All data that support the findings of this study have been deposited in the Open Inter-university Consortium for Political and Social Research Repository under project number 155541 and are available at https://doi.org/10.3886/E155541V1. The names of individual academics and institutions have been blinded and are represented in the data with author-generated unique identifiers.
+
+
+View ORCID ProfileNicholas D. E. Mark and Lawrence L. Wu
+
+See all authors and affiliations
+PNAS February 22, 2022 119 (8) e2113144119; https://doi.org/10.1073/pnas.2113144119
+
+    Edited by Greg Duncan, School of Education, University of California, Irvine, CA; received July 16, 2021; accepted December 21, 2021
+
+Outside the Safe Operating Space of the Planetary Boundary for Novel Entities
+
+    Linn Persson*, Bethanie M. Carney Almroth, Christopher D. Collins, Sarah Cornell, Cynthia A. de Wit*, Miriam L. Diamond, Peter Fantke, Martin Hassellöv, Matthew MacLeod, Morten W. Ryberg, Peter Søgaard Jørgensen, Patricia Villarrubia-Gómez, Zhanyun Wang, and Michael Zwicky Hauschild
+
+Cite this: Environ. Sci. Technol. 2022, 56, 3, 1510–1521
+Publication Date:January 18, 2022
+https://doi.org/10.1021/acs.est.1c04158
+Copyright © 2022 The Authors. Published by American Chemical Society
+RIGHTS & PERMISSIONS
+ACS AuthorChoice
+CC: Creative CommonsBY: Credit must be given to the creatorNC: Only noncommercial uses of the work are permittedND: No derivatives or adaptations of the work are permitted
+Article Views
+58530
+Altmetric
+1690
+Citations
+1
+LEARN ABOUT THESE METRICS
+Share
+Add to
+Export
+RIS
+
+Respiratory mucosal delivery of next-generation COVID-19 vaccine provides robust protection against both ancestral and variant strains of SARS-CoV-2
+
+    Sam Afkhami 2
+    Michael R. D’Agostino 2
+    Ali Zhang
+    Brian D. Lichty
+    Matthew S. Miller
+    Zhou Xing 6
+    Show all authors
+    Show footnotes
+
+Open AccessPublished:February 08, 2022DOI:https://doi.org/10.1016/j.cell.2022.02.005
+Respiratory mucosal delivery of next-generation COVID-19 vaccine provides robust protection against both ancestral and variant strains of SARS-CoV-2
+Previous ArticleAn adjuvant strategy enabled by modulation of the …
+Next ArticleCryo-ET of Env on intact HIV virions reveals structural …
+
+    Highlights
+    Summary
+    Graphical Abstract
+    Article Info
+    Figures
+    Related Articles
+    Comments
+
+Highlights
+
+    .
+    Two trivalent adenoviral-vectored COVID-19 vaccines were developed and evaluated
+    .
+    Intranasal, but not intramuscular, immunization induces tripartite mucosal immunity
+    .
+    Intranasal immunization protects against ancestral and variant strains of SARS-CoV-2
+    .
+    Optimal protection requires B and T cell immunity and trained innate immunity
+	
+
+Psilocybin microdosing does not affect emotion-related symptoms and processing: A preregistered field and lab-based study
+Show all authors
+Josephine Marschall, George Fejer, Pascal Lempe, ...
+First Published December 17, 2021 Research Article Find in PubMed
+https://doi.org/10.1177/02698811211050556
+Article information 
+Article has an altmetric score of 203 SAGE ChoiceOpen AccessCreative Commons Attribution 4.0 License
+
+Abstract
+Background:
+
+Microdoses of psychedelics (i.e. a sub-hallucinogenic dose taken every third day) can reduce symptoms of depression, anxiety and stress according to anecdotal reports and observational studies. Research with medium to high doses of psilocybin points towards potential underlying mechanisms, including the modulation of emotion and interoceptive processing.
+Aims:
+
+1. Heslin KC, Hall JE. Sexual orientation disparities in risk factors for adverse
+COVID-19–related outcomes, by race/ethnicity—Behavioral Risk Factor
+Surveillance System, United States, 2017–2019. MMWR Morb Mortal
+Wkly Rep 2021;70:149–54. PMID:33539330 https://doi.org/10.15585/
+mmwr.mm7005a1
+2. Institute of Medicine. The health of lesbian, gay, bisexual, and transgender
+people: building a foundation for better understanding. Washington, DC:
+The National Academies Press; 2011.
+3. Ryerson AB, Rice CE, Hung MC, et al. Disparities in COVID-19
+vaccination status, intent, and perceived access for noninstitutionalized
+adults, by disability status—National Immunization Survey Adult COVID
+Module, United States, May 30–June 26, 2021. MMWR Morb Mortal
+Wkly Rep 2021;70:1365–71.PMID:34591826 https://doi.org/10.15585/
+mmwr.mm7039a2
+4. Community Marketing & Insights. 15th Annual LGBTQ Community
+Survey, USA report. July 2021. Corte Madera, CA: CMI Media Group;
+2021. https://www.cmi.info/documents/temp/CMI-15th_LGBTQ_
+Community_Survey_US_Profile_2021.pdf
+5. Patterson JG, Jabson JM, Bowen DJ. Measuring sexual and gender
+minority populations in health surveillance. LGBT Health 2017;4:82–105.
+PMID:28287877 https://doi.org/10.1089/lgbt.2016.0026
+6. US D epartment of Health and Human Services. Healthy people
+2020: lesbian, gay, bisexual, and transgender health. Washington,
+DC: US Department of Health and Human Services; 2020.
+https://www.healthypeople.gov/2020/topics-objectives/topic/
+lesbian-gay-bisexual-and-transgender-health
+7. Brown CM, Vostok J, Johnson H, et al. Outbreak of SARS-CoV-2
+infections, including COVID-19 vaccine breakthrough infections,
+associated with large public gatherings—Barnstable County, Massachusetts,
+July 2021. MMWR Morb Mortal Wkly Rep 2021;70:1059–62.
+PMID:34351882 https://doi.org/10.15585/mmwr.mm7031e2
+8. Pew Research Center. Mobile fact sheet. Washington, DC: Pew Research
+Center; 2021. https://www.pewresearch.org/internet/fact-sheet/mobile/
+9. Scobie HM, J ohnson AG, Suthar AB, et al. Monitoring incidence
+of COVID-19 cases, hospitalizations, and deaths, by vaccination
+status—13 US jurisdictions, April 4–July 17, 2021. MMWR Morb
+Mortal Wkly Rep 2021;70:1284–90. PMID:34529637 https://doi.
+org/10.15585/mmwr.mm7037e1
+
+Measuring Sexual and Gender Minority Populations in Health Surveillance
+
+Joanne G. Patterson
+, Jennifer M. Jabson
+, and Deborah J. Bowen
+Published Online:1 Apr 2017https://doi.org/10.1089/lgbt.2016.0026
+
+    Sections
+    PDF/EPUB
+
+    Tools
+    Share
+
+Abstract
+
+Purpose: Sexual and gender minorities (SGMs) are underrepresented and information about SGMs is difficult to locate in national health surveillance data, and this limits identification and resolution of SGM health disparities. It is also not known how measures of sexual orientation and transgender-inclusive gender identity in health surveillance compare with best practice recommendations. This article reviews and summarizes the publicly available, English language, large-scale, rigorously sampled, national, international, and regional data sources that include sexual orientation or transgender-inclusive gender identity and compares measures with best practice guidelines.
+
