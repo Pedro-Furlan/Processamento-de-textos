@@ -12,8 +12,8 @@ O projeto consiste de programa em Python para realizar três tarefas com arquivo
 Futuramente, pretendo implementar várias melhorias:
 - Documentação mais extensa do funcionamento do programa, e em inglês.
 - Capacidade de trabalhar com outros formatos de arquivo, principalmente PDF e .Doc/similares. No momento, só .txt
-- Adaptação para outros idiomas, principalmente português (no momento, só inglês).
-- Melhorar significativamente a modilaridade do programa (que no momento é um bloco só de 900 linhas), possivelmente reescrevendo o programa para ser orientado a objeto.
+- Adaptação do programa para aceitar textos em português (no momento, só inglês).
+- Melhorar significativamente a modularidade do programa (que no momento é um bloco só de 900 linhas), possivelmente reescrevendo o programa para ser orientado a objeto.
 - Operação completamente por interface gráfica.
 
 
